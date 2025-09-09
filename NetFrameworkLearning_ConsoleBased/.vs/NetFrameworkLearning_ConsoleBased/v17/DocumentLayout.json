@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3E8DCB-3F7B-4519-9FF4-18C169712628}|AnnotationLearning\\AnnotationLearning.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\annotationlearning\\dataannotation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3E8DCB-3F7B-4519-9FF4-18C169712628}|AnnotationLearning\\AnnotationLearning.csproj|solutionrelative:annotationlearning\\dataannotation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3E8DCB-3F7B-4519-9FF4-18C169712628}|AnnotationLearning\\AnnotationLearning.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\annotationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3E8DCB-3F7B-4519-9FF4-18C169712628}|AnnotationLearning\\AnnotationLearning.csproj|solutionrelative:annotationlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\AnnotationLearning\\DataAnnotation\\Employee.cs",
+              "RelativeDocumentMoniker": "AnnotationLearning\\DataAnnotation\\Employee.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\AnnotationLearning\\DataAnnotation\\Employee.cs",
+              "RelativeToolTip": "AnnotationLearning\\DataAnnotation\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:49:51.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\AnnotationLearning\\Program.cs",
+              "RelativeDocumentMoniker": "AnnotationLearning\\Program.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\AnnotationLearning\\Program.cs",
+              "RelativeToolTip": "AnnotationLearning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:47:43.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

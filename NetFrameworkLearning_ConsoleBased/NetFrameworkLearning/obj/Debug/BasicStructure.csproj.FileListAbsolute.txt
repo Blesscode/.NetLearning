@@ -1,0 +1,7 @@
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\bin\Debug\NetFrameworkLearning.exe.config
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\bin\Debug\NetFrameworkLearning.exe
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\bin\Debug\NetFrameworkLearning.pdb
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\obj\Debug\BasicStructure.csproj.AssemblyReference.cache
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\obj\Debug\BasicStructure.csproj.CoreCompileInputs.cache
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\obj\Debug\NetFrameworkLearning.exe
+E:\DotNetLearning\NetFrameworkLearning_ConsoleBased\NetFrameworkLearning\obj\Debug\NetFrameworkLearning.pdb

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\exceptionhandling\\userdefineexception\\drivinglicenceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\userdefineexception\\drivinglicenceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\exceptionhandling\\outofbound\\arrayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577CEEDC-CFC8-452F-BD44-D43046B76EE1}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\outofbound\\arrayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|e:\\dotnetlearning\\netframeworklearning_consolebased\\arraylearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|solutionrelative:arraylearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E5C10A-5615-4045-B9E3-F74B2E91D67E}|NetFrameworkLearning\\NetFrameworkLearning.csproj|E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\netframeworklearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E5C10A-5615-4045-B9E3-F74B2E91D67E}|NetFrameworkLearning\\NetFrameworkLearning.csproj|solutionrelative:netframeworklearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\arraylearning\\waystocreatearray\\way3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|solutionrelative:arraylearning\\waystocreatearray\\way3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\arraylearning\\waystocreatearray\\way2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|solutionrelative:arraylearning\\waystocreatearray\\way2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\arraylearning\\waystocreatearray\\way1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79A8CB4-A7C5-4609-B54D-48484AFA4D21}|ArrayLearning\\ArrayLearning.csproj|solutionrelative:arraylearning\\waystocreatearray\\way1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:15:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrivingLicenceExample.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\UserDefineException\\DrivingLicenceExample.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\UserDefineException\\DrivingLicenceExample.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\UserDefineException\\DrivingLicenceExample.cs",
+              "RelativeToolTip": "ExceptionHandling\\UserDefineException\\DrivingLicenceExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:35:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayClass.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\OutOfBound\\ArrayClass.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\OutOfBound\\ArrayClass.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ExceptionHandling\\OutOfBound\\ArrayClass.cs",
+              "RelativeToolTip": "ExceptionHandling\\OutOfBound\\ArrayClass.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:15:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Way2.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way2.cs",
+              "RelativeDocumentMoniker": "ArrayLearning\\waysToCreateArray\\Way2.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way2.cs",
+              "RelativeToolTip": "ArrayLearning\\waysToCreateArray\\Way2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:30:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayLearning\\Program.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\Program.cs",
+              "RelativeToolTip": "ArrayLearning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:17:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Way3.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way3.cs",
+              "RelativeDocumentMoniker": "ArrayLearning\\waysToCreateArray\\Way3.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way3.cs",
+              "RelativeToolTip": "ArrayLearning\\waysToCreateArray\\Way3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:30:32.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Way1.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way1.cs",
+              "RelativeDocumentMoniker": "ArrayLearning\\waysToCreateArray\\Way1.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\ArrayLearning\\waysToCreateArray\\Way1.cs",
+              "RelativeToolTip": "ArrayLearning\\waysToCreateArray\\Way1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:49:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\NetFrameworkLearning\\Program.cs",
+              "RelativeDocumentMoniker": "NetFrameworkLearning\\Program.cs",
+              "ToolTip": "E:\\DotNetLearning\\NetFrameworkLearning_ConsoleBased\\NetFrameworkLearning\\Program.cs",
+              "RelativeToolTip": "NetFrameworkLearning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:11:18.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
